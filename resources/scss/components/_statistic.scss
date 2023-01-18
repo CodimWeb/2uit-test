@@ -1,0 +1,40 @@
+@import "../abstract/variables";
+
+.statistic{
+  padding: 90px 0 80px;
+}
+
+.statistic__container {
+  margin-top: 32px;
+}
+
+.statistic__row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -12px;
+}
+
+.statistic__col {
+  width: 33.333%;
+  max-width: 33.333%;
+  padding: 0 12px;
+}
+
+.statistic-item {
+  height: 164px;
+  border: 1px solid #DFDEE2;
+  border-radius: 8px;
+  display: flex;
+  padding: 24px;
+  margin: 0 0 24px;
+}
+
+.statistic-icon {
+  margin: 22px 24px 22px 0;
+}
+
+.statistic-text__number {
+  font-size: 16px;
+  color: #646464;
+  margin-bottom: 12px;
+}

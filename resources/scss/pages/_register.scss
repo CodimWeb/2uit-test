@@ -1,0 +1,28 @@
+.register {
+    padding-top: 32px;
+}
+
+.register__title {
+    text-align: center;
+    text-transform: uppercase;
+    margin: 40px 0 60px;
+}
+
+.register-forms {
+    width: 400px;
+    margin: 0 auto;
+}
+
+
+.refister__form {
+    margin-bottom: 120px;
+
+    &.active {
+      display: block;
+    }
+}
+
+.register-accept {
+    margin-top: 24px;
+    margin-bottom: 32px;
+}
