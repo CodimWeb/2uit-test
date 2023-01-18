@@ -6,7 +6,6 @@
 /vendor
 /tmp
 package-lock.json
-.env
 .env.backup
 .env.production
 .phpunit.result.cache
